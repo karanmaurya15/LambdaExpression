@@ -9,6 +9,7 @@
             LambdaDemo.AddRecords(listPersonInCity);
             LambdaDemo.Retrieving_TopTwoRecord_ForAgels_LessThanSixty(listPersonInCity);
             LambdaDemo.CheckingForTeenagerPerson(listPersonInCity);
+            LambdaDemo.AllPersonsAverageAge(listPersonInCity);
         }
     }
 }
